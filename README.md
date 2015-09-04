@@ -1,5 +1,8 @@
 # Angular Movie Search
 
+## Live Demo
+http://judylin1-angimdb.divshot.io/
+
 ## Synopsis:
 Proof of concept using Angular to make API calls to the OMDB API.
 

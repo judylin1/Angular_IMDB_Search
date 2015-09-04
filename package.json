@@ -1,0 +1,19 @@
+{
+  "name": "angimdb",
+  "version": "1.0.0",
+  "description": "## Synopsis: Proof of concept using Angular to make API calls to the OMDB API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/judylin1/Angular_IMDB_Search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/judylin1/Angular_IMDB_Search/issues"
+  },
+  "homepage": "https://github.com/judylin1/Angular_IMDB_Search#readme"
+}
