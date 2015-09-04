@@ -1,0 +1,45 @@
+body {
+  color: #666;
+}
+
+.page-header {
+    text-align: center;
+}
+
+#movieTitle {
+  font-style: italic;
+  text-align: center;
+}
+
+#search {
+  background-color: #3366FF;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  margin-left: 1em;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.container {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.title {
+  display: inline-block;
+  border: 1px solid grey;
+  width: 30em;
+  border-radius: 10px;
+  padding-top: 2em;
+  padding-bottom: 1.5em;
+  margin-top: 1em;
+}
+
+a, a:hover {
+  text-decoration: none;
+}
+
+.left {
+  text-align: left;
+}

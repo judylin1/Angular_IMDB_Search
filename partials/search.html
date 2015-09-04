@@ -1,0 +1,10 @@
+<div class='container'>
+  <div class='row'>
+    <div class='col-md-6' ng-repeat='movie in movies track by $index'>
+      <div class='title'>
+        <a href='/{{movie.imdbID}}/show'>{{movie.Title}}</a><br>
+        <p>Year: {{movie.Year}}</p>
+      </div>
+    </div>
+  </div>
+</div>

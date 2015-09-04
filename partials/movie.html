@@ -1,0 +1,14 @@
+<div class='container'>
+  <div class='row'>
+    <div class='col-md-6'>
+        <img ng-src="{{movieData.Poster}}" alt='movie poster' width='200px'/>
+    </div>
+    <div class='col-md-6'>
+      <div class='left'>
+        <div ng-repeat='(key, value) in movieData'>
+          <p><strong>{{key}}</strong>: {{value}}</p>
+        </div>
+    </div>
+    </div>
+  </div>
+</div>
